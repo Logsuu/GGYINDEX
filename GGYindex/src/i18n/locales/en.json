@@ -1,0 +1,348 @@
+{
+  "brand": {
+    "name": "Shiguang Technology",
+    "tagline": "Smart Cooking Solutions", 
+    "description": "Professional equipment and careful guidance to provide comprehensive support for your culinary journey",
+    "slogan": "Explore Your Culinary Journey with One Click"
+  },
+  "navigation": {
+    "home": "Back to Home",
+    "back": "Back",
+    "backToSelection": "Back to Pot Selection",
+    "backToHome": "Back to Main Site"
+  },
+  "scroll": {
+    "video": {
+      "title": "Smart Cooker Promo Video",
+      "subtitle": "Product Introduction Video",
+      "description": "Discover the powerful features of Shiguang smart cooker"
+    },
+    "installation": {
+      "title": "Equipment Installation Guide",
+      "subtitle": "Equipment Installation Tutorial",
+      "description": "Complete installation process from unboxing to commissioning"
+    },
+    "potGuide": {
+      "title": "Pot Selection Guide",
+      "subtitle": "Pot Selection Guide",
+      "description": "Professional selection of nitrided iron pots and Teflon pots"
+    },
+    "supplies": {
+      "title": "Supplies Purchase Guide",
+      "subtitle": "Supplies Purchase Guide",
+      "description": "Purchasing and replacement guide for accessories and consumables"
+    }
+  },
+  "video": {
+    "title": "Smart Cooker Promo Video",
+    "subtitle": "Product Introduction Video",
+    "watchOnBilibili": "Watch Full Version on Bilibili",
+    "fullTitle": "Shiguang Technology Smart Cooker - Product Feature Promo",
+    "coreFeatures": {
+      "title": "5 Core Features",
+      "subtitle": "Perfect fusion of modern technology and traditional culinary arts"
+    },
+    "conclusion": {
+      "title": "Technology Empowerment, Craftsmanship Heritage",
+      "description": "Shiguang Technology Smart Cooker enables every user to easily prepare master-level cuisine"
+    }
+  },
+  "installation": {
+    "title": "Equipment Installation, Usage & Daily Maintenance Tutorial",
+    "subtitle": "Equipment Installation Tutorial",
+    "videoTitle": "Shiguang Technology Smart Cooker - Complete Tutorial for Equipment Installation, Daily Maintenance, and Interface Operation",
+    "watchOnBilibili": "Watch Full Version on Bilibili",
+    "videoContent": "Video content includes",
+    "precautions": "Precautions",
+    "quickSteps": {
+      "title": "Quick Installation Steps",
+      "unboxing": {
+        "title": "Unboxing Inspection",
+        "description": "Check equipment and accessory integrity"
+      },
+      "positioning": {
+        "title": "Position Installation",
+        "description": "Select suitable location and secure equipment"
+      },
+      "power": {
+        "title": "Power Connection", 
+        "description": "Connect power and check safety"
+      },
+      "testing": {
+        "title": "Function Testing",
+        "description": "Power on and test all functions"
+      }
+    }
+  },
+  "pot": {
+    "guide": {
+      "title": "Pot Selection Guide",
+      "subtitle": "Pot Selection Guide",
+      "motto": "A Good Pot Makes Great Dishes",
+      "description": "Know your pot, treat your pot well, and it will become your most capable partner in the kitchen",
+      "professional": "Professional choices lead to ultimate cooking experiences",
+      "selectTitle": "Choose Your Desired Pot",
+      "selectDescription": "Click the cards below to view detailed usage guides",
+      "clickToView": "Click to view complete usage guide",
+      "backToSelection": "Back to Pot Selection"
+    },
+    "iron": {
+      "name": "Nitrided Iron Wok",
+      "subtitle": "Nitrided Iron Wok",
+      "tag": "Ultimate Wok Hei",
+      "description": "Born for pursuing ultimate wok hei, the soul choice for Chinese stir-frying and braising",
+      "suitable": "Suitable for stir-frying, braising, dry-frying and other Chinese cooking methods",
+      "skill": "Requires professional seasoning and maintenance techniques",
+      "title": "Nitrided Iron Wok Usage Guide",
+      "guideSubtitle": "Nitrided Iron Wok Guide",
+      "recipes": {
+        "title": "Recommended Recipes",
+        "stirFry": {
+          "title": "Stir-fry",
+          "dishes": ["Scallion Lamb", "Spicy Chicken", "Stir-fried Vegetables"]
+        },
+        "braise": {
+          "title": "Braising",
+          "dishes": ["Braised Pork", "Braised Chicken", "Potato Beef Stew"]
+        },
+        "dryFry": {
+          "title": "Dry-frying",
+          "dishes": ["Dry-fried Green Beans", "Dry-fried Fish"]
+        }
+      },
+      "usage": {
+        "title": "Usage Instructions",
+        "heatControl": {
+          "title": "Heat Control & Dry Heating",
+          "content1": "Iron woks conduct heat quickly. Use medium-low heat for preheating and avoid prolonged dry heating to prevent damage. Heat the wok before adding oil for better non-stick performance.",
+          "content2": "Start with medium-low heat (3-4 setting) then switch to high heat (5+ setting). Direct high heat can burn food and damage the wok surface."
+        },
+        "antiStick": {
+          "title": "Anti-stick Techniques",
+          "protein": {
+            "title": "High-protein Ingredients",
+            "description": "Eggs, soft tofu, fish skin: Master the hot wok cold oil technique, or pre-treat ingredients with flour coating."
+          },
+          "ginger": {
+            "title": "Ginger Anti-stick",
+            "description": "For dishes with ginger, rub the hot wok bottom with ginger slices before stir-frying or deep-frying."
+          },
+          "starch": {
+            "title": "High-starch Ingredients",
+            "description": "Potatoes, yam: Rinse with water to remove surface starch after cutting, and drain thoroughly."
+          },
+          "sugar": {
+            "title": "High-sugar Dishes",
+            "description": "Use more oil and stir-fry quickly. For rice cakes and noodles: soak in water first to moisten surface, use more oil and stir quickly."
+          }
+        },
+        "rust": {
+          "title": "Rust Risk",
+          "description": "Do not soak the wok for long periods or store food overnight. Avoid cooking acidic dishes like tomatoes or vinegar to protect the oil coating."
+        }
+      },
+      "maintenance": {
+        "title": "Wok Care Tutorial: Make It Your Family Heirloom",
+        "firstTime": {
+          "title": "Step 1: Initial Seasoning (Crucial)",
+          "purpose": "Purpose: Remove industrial rust-prevention coating, establish initial oil layer, lay foundation for future non-stick performance.",
+          "clean": {
+            "title": "Clean",
+            "description": "Under running warm water, thoroughly clean inside and outside with dish soap and scrubber, then dry."
+          },
+          "dry": {
+            "title": "Dry",
+            "description": "Place wok back in cooker, select manual mode, set to level 3 for about 1 minute."
+          },
+          "oil": {
+            "title": "Oil",
+            "description": "Add cooking oil, start preset seasoning recipe, run at low speed for about 2 minutes."
+          },
+          "wait": {
+            "title": "Rest",
+            "description": "After cooling, wipe excess oil with paper towels."
+          }
+        },
+        "daily": {
+          "title": "Step 2: Daily Care (Simple but Consistent)",
+          "purpose": "Purpose: Strengthen and thicken oil layer, make iron wok darker, shinier, and more non-stick with use.",
+          "clean": {
+            "title": "Cleaning",
+            "tips": [
+              "After cooking, clean with warm water and soft tools (bamboo brush, sponge, soft cloth) while wok is still warm",
+              "Use minimal or no dish soap to protect oil layer",
+              "For stuck food, soak in warm water then clean",
+              "Never use steel wool or hard scrubbers"
+            ]
+          },
+          "care": {
+            "title": "Care",
+            "dryTip": "Drying is key: After cleaning, place wok back in cooker for 1-2 minutes, or dry thoroughly with cloth",
+            "oilTip": "Oiling is enhancement: While still warm after drying, apply thin layer of cooking oil on inner surface",
+            "storageTip": "Long-term storage: If not using for extended periods, apply oil layer and store in dry place"
+          }
+        },
+        "rustNote": {
+          "title": "About Rust",
+          "description": "If rust appears, remove with white vinegar or scrubber, then repeat the complete initial seasoning process for renewal."
+        }
+      }
+    },
+    "teflon": {
+      "name": "Teflon Non-stick Pot",
+      "subtitle": "Teflon Non-stick Pot",
+      "tag": "Easy Non-stick",
+      "description": "Designed specifically for handling delicate ingredients, making non-stick cooking and maintaining food appearance incredibly easy",
+      "suitable": "Suitable for pan-frying, stir-frying, and sauce-based cooking",
+      "protection": "Coating protection is the core point of use",
+      "title": "Teflon Non-stick Pot Usage Guide",
+      "guideSubtitle": "Teflon Non-stick Pot Guide",
+      "recipes": {
+        "title": "Recommended Recipes",
+        "panFry": {
+          "title": "Pan-frying",
+          "dishes": ["Fish", "Tofu", "Eggs", "Pork Liver"]
+        },
+        "smoothFry": {
+          "title": "Smooth Stir-fry",
+          "dishes": ["Scrambled Eggs with Shrimp", "Stir-fried Fish Fillet", "Fried Rice Noodles"]
+        },
+        "sauce": {
+          "title": "Sauce-based",
+          "dishes": ["Sweet & Sour Pork", "Fish-flavored Pork", "Mapo Tofu"]
+        }
+      },
+      "usage": {
+        "title": "Usage Instructions",
+        "coatingProtection": {
+          "title": "Coating Protection is Core",
+          "noMetal": {
+            "title": "Strictly No Metal Utensils",
+            "description": "Never use metal or hard utensils (steel spatula, steel wool). Always use silicone or wooden utensils."
+          },
+          "noSharp": {
+            "title": "Avoid Sharp Ingredients",
+            "description": "Do not cook ingredients with sharp shells (crabs, clams) to avoid coating scratches during stir-frying."
+          },
+          "noDryBurn": {
+            "title": "Avoid Dry Heating",
+            "description": "Prolonged dry heating will permanently damage the non-stick coating."
+          }
+        }
+      },
+      "cleaning": {
+        "title": "Cleaning & Maintenance — Extend Coating Life",
+        "daily": {
+          "title": "Daily Cleaning",
+          "gentle": {
+            "title": "Gentle Cleaning",
+            "description": "After natural cooling, use regular dish soap or clean with sponge/soft cloth and warm water."
+          },
+          "temperature": {
+            "title": "Prevent Temperature Shock",
+            "description": "Never rinse hot pot with cold water directly - temperature difference is the coating's invisible killer. If cleaning while hot, use hot water only."
+          },
+          "stain": {
+            "title": "Stain Treatment",
+            "description": "For stubborn stains, soak in warm water. Never scrape forcefully."
+          },
+          "spray": {
+            "title": "Avoid High-pressure Water",
+            "description": "Do not use equipment's built-in water spray directly on pot interior as it accelerates coating aging."
+          }
+        },
+        "inspection": {
+          "title": "Regular Inspection",
+          "description": "When coating shows obvious scratches or significantly reduced non-stick performance, we recommend contacting for repair or pot replacement for optimal cooking results and food safety."
+        },
+        "warnings": {
+          "title": "Important Reminders",
+          "noMetal": "No metal utensils",
+          "noTempShock": "Avoid temperature shock",
+          "noDryBurn": "No prolonged dry heating"
+        }
+      }
+    }
+  },
+  "supplies": {
+    "title": "Supplies Purchase Guide",
+    "subtitle": "Supplies Purchase Guide", 
+    "description": "Purchasing and replacement guide for accessories and consumables to ensure continuous efficient operation of equipment",
+    "categories": {
+      "equipment": {
+        "title": "Equipment Parts",
+        "seals": {
+          "title": "Seal Ring Components",
+          "check": "Recommend checking sealing performance every 6 months",
+          "replace": "Replace immediately when aging or damage is found",
+          "cycle": "Replacement cycle: 12-18 months"
+        },
+        "filters": {
+          "title": "Filter Components",
+          "clean": "Clean monthly to maintain ventilation",
+          "replace": "Replace new filters when severely clogged",
+          "cycle": "Replacement cycle: 6-12 months"
+        }
+      },
+      "cookware": {
+        "title": "Cooking Utensils",
+        "silicone": {
+          "title": "Silicone Utensil Set",
+          "description": "Safe utensils specifically for Teflon non-stick pots",
+          "includes": "Includes spatula, ladle, tongs and other tools",
+          "recommend": "Recommended backup: 1-2 sets"
+        },
+        "wood": {
+          "title": "Wooden Utensil Set",
+          "description": "Traditional utensils suitable for nitrided iron woks",
+          "material": "Natural materials, won't damage pot surface",
+          "recommend": "Recommended backup: 1 set"
+        }
+      }
+    },
+    "purchasing": {
+      "title": "Purchase Recommendations",
+      "authentic": {
+        "title": "Authentic Channels",
+        "official": "Shiguang Technology Official Store",
+        "authorized": "Authorized Dealer Stores",
+        "service": "Official Customer Service Recommended Channels"
+      },
+      "quality": {
+        "title": "Quality Assurance",
+        "original": "Original parts ensure compatibility",
+        "standard": "Strict quality control standards",
+        "warranty": "Quality issue replacement service"
+      },
+      "afterSales": {
+        "title": "After-sales Service",
+        "installation": "Professional installation guidance",
+        "training": "Usage training service",
+        "maintenance": "Regular maintenance reminders"
+      }
+    },
+    "replacement": {
+      "title": "Replacement Reminders",
+      "whenToReplace": {
+        "title": "When to Replace",
+        "seals": "Seal rings show aging, hardening, or cracking",
+        "filters": "Filters severely clogged with poor cleaning results",
+        "tools": "Utensils show wear or damage",
+        "performance": "Equipment performance significantly declined"
+      },
+      "contact": {
+        "title": "Contact Information",
+        "hotline": "Customer Service Hotline: 400-XXX-XXXX",
+        "online": "Online Service: Official website online consultation",
+        "hours": "Service Hours: Monday to Sunday 9:00-18:00"
+      }
+    }
+  },
+  "common": {
+    "enter": "Click to Enter",
+    "copyright": "© 2024 Shiguang Technology | Focused on Kitchen Technology, Creating Better Life",
+    "contact": "Please contact customer service for product consultation and after-sales service",
+    "returnToProduct": "Return to Product Selection",
+    "returnToHome": "Return to Homepage"
+  }
+}

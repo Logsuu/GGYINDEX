@@ -1,0 +1,348 @@
+{
+  "brand": {
+    "name": "拾光科技",
+    "tagline": "智能烹饪解决方案",
+    "description": "专业的设备，精心的指导，为您的烹饪之旅提供全方位支持",
+    "slogan": "一键探索您的烹饪之旅"
+  },
+  "navigation": {
+    "home": "返回首页",
+    "back": "返回",
+    "backToSelection": "返回锅体选择",
+    "backToHome": "返回主站"
+  },
+  "scroll": {
+    "video": {
+      "title": "智能烹饪机宣传片",
+      "subtitle": "产品介绍视频",
+      "description": "了解拾光科技烹饪机的强大功能"
+    },
+    "installation": {
+      "title": "设备使用安装",
+      "subtitle": "设备安装教程",
+      "description": "从拆箱到调试的完整安装流程"
+    },
+    "potGuide": {
+      "title": "锅体选配指南",
+      "subtitle": "锅体选择指南",
+      "description": "氮化铁锅与特氟龙锅的专业选配"
+    },
+    "supplies": {
+      "title": "耗材选购指南",
+      "subtitle": "耗材购买指南",
+      "description": "配件耗材的选购和更换指南"
+    }
+  },
+  "video": {
+    "title": "智能烹饪机宣传片",
+    "subtitle": "产品介绍视频",
+    "watchOnBilibili": "在B站观看完整版",
+    "fullTitle": "拾光科技智能烹饪机 - 产品功能宣传片",
+    "coreFeatures": {
+      "title": "5大核心功能",
+      "subtitle": "现代科技与传统烹饪艺术的完美融合"
+    },
+    "conclusion": {
+      "title": "科技赋能，匠心传承",
+      "description": "拾光科技智能烹饪机，让每一位用户都能轻松烹制大师级美食"
+    }
+  },
+  "installation": {
+    "title": "设备安装、使用及日常保养教程",
+    "subtitle": "设备安装教程",
+    "videoTitle": "拾光科技智能烹饪机 - 设备安装、日常保养、操作界面演示完整教程",
+    "watchOnBilibili": "在B站观看完整版",
+    "videoContent": "视频内容包含",
+    "precautions": "注意事项",
+    "quickSteps": {
+      "title": "快速安装步骤",
+      "unboxing": {
+        "title": "拆箱检查",
+        "description": "检查设备和配件完整性"
+      },
+      "positioning": {
+        "title": "位置安装",
+        "description": "选择合适位置并固定设备"
+      },
+      "power": {
+        "title": "电源连接",
+        "description": "连接电源并检查安全"
+      },
+      "testing": {
+        "title": "功能测试",
+        "description": "开机测试各项功能"
+      }
+    }
+  },
+  "pot": {
+    "guide": {
+      "title": "锅体选配指南",
+      "subtitle": "锅体选择指南",
+      "motto": "一口好锅，成就好菜",
+      "description": "了解您的锅，善待您的锅，它将成为您厨房里最得力的伙伴",
+      "professional": "专业的选择，成就极致的烹饪体验",
+      "selectTitle": "选择您需要的锅体",
+      "selectDescription": "点击下方卡片查看详细使用指南",
+      "clickToView": "点击查看完整使用指南",
+      "backToSelection": "返回锅体选择"
+    },
+    "iron": {
+      "name": "氮化铁锅",
+      "subtitle": "氮化铁锅",
+      "tag": "极致锅气",
+      "description": "为追求极致锅气而生，是中式爆炒、烧焖的灵魂之选",
+      "suitable": "适合爆炒、烧焖、干煸等中式烹饪",
+      "skill": "需要专业的开锅和养锅技巧",
+      "title": "氮化铁锅使用指南",
+      "guideSubtitle": "氮化铁锅指南",
+      "recipes": {
+        "title": "推荐菜谱",
+        "stirFry": {
+          "title": "爆炒类",
+          "dishes": ["葱爆羊肉", "辣子鸡丁", "爆炒时蔬"]
+        },
+        "braise": {
+          "title": "烧焖类", 
+          "dishes": ["红烧肉", "黄焖鸡", "土豆烧牛腩"]
+        },
+        "dryFry": {
+          "title": "干煸类",
+          "dishes": ["干煸豆角", "干烧鱼"]
+        }
+      },
+      "usage": {
+        "title": "使用须知",
+        "heatControl": {
+          "title": "控制火候与空烧",
+          "content1": "铁锅导热快，建议用中小火预热，避免长时间空烧损伤锅体。炒菜前先将锅烧热再倒油，能有效增强物理不粘效果。",
+          "content2": "先用中小火烹饪（3到4档）再转至大火（5档或以上），直接大火容易让食物焦糊，且会损伤锅面。"
+        },
+        "antiStick": {
+          "title": "粘锅应对技巧",
+          "protein": {
+            "title": "高蛋白食材",
+            "description": "鸡蛋、嫩豆腐、鱼皮：掌握热锅冷油技巧，或对食材进行拍粉等预处理。"
+          },
+          "ginger": {
+            "title": "姜片防粘",
+            "description": "若菜系涉及姜片，炒或炸前，用姜片擦拭热锅锅底。"
+          },
+          "starch": {
+            "title": "高淀粉食材",
+            "description": "土豆、山药：切好后用清水冲洗掉表面淀粉，并尽量沥干水分。"
+          },
+          "sugar": {
+            "title": "高糖类菜系",
+            "description": "适当增加用油量，并快速翻炒。年糕、粉条类：炒前先过水使其表面湿润，并多放油快炒。"
+          }
+        },
+        "rust": {
+          "title": "生锈风险",
+          "description": "请勿长时间浸泡锅体或用其存放食物过夜。避免烹煮番茄、醋等强酸性菜肴，以保护锅体表面的油膜。"
+        }
+      },
+      "maintenance": {
+        "title": "养锅教程：让它成为您的传家宝",
+        "firstTime": {
+          "title": "第一步：首次开锅（至关重要）",
+          "purpose": "目的：去除工业防锈层，建立初始油膜，为日后的物理不粘打下坚实基础。",
+          "clean": {
+            "title": "洁锅",
+            "description": "流动温水下，用洗洁精和百洁布彻底洗净锅内外，擦干。"
+          },
+          "dry": {
+            "title": "烘干", 
+            "description": "将锅体安放回烹饪机内，选择手动模式，调至3档运行约1分钟。"
+          },
+          "oil": {
+            "title": "润锅",
+            "description": "倒入适量食用油，启动预设的开锅菜谱，低速运转约2分钟。"
+          },
+          "wait": {
+            "title": "静置",
+            "description": "待锅冷却后，用厨房纸巾擦净多余油分即可。"
+          }
+        },
+        "daily": {
+          "title": "第二步：日常养锅（简单，但需坚持）",
+          "purpose": "目的：巩固并加厚油膜，让铁锅越用越黑亮、越用越不粘。",
+          "clean": {
+            "title": "清洗",
+            "tips": [
+              "烹饪后，趁锅有余温时用温水和软质工具（如竹刷、海绵、软布）清洗",
+              "尽量少用或不用洗洁精，以保护油膜",
+              "若不慎粘锅，可用温水泡软后再清洗",
+              "切忌使用钢丝球等硬物刮擦"
+            ]
+          },
+          "care": {
+            "title": "养护",
+            "dryTip": "烘干是关键：清洗后，务必将锅体放回烹饪机内运行1-2分钟，或用干布彻底擦干",
+            "oilTip": "涂油是升华：烘干后趁有余温，在锅内壁涂抹一层薄薄的食用油",
+            "storageTip": "长期存放：若长期不用，涂抹一层食用油后存放于干燥处"
+          }
+        },
+        "rustNote": {
+          "title": "关于生锈",
+          "description": "万一出现锈迹，可用白醋或百洁布擦除，再完整执行一遍首次开锅流程，即可焕然一新。"
+        }
+      }
+    },
+    "teflon": {
+      "name": "特氟龙不粘锅",
+      "subtitle": "特氟龙不粘锅",
+      "tag": "轻松不粘",
+      "description": "专为处理娇嫩食材设计，让不粘锅、保品相变得无比轻松",
+      "suitable": "适合煎烙、滑炒、酱汁类烹饪",
+      "protection": "涂层保护是使用的核心要点",
+      "title": "特氟龙不粘锅使用指南",
+      "guideSubtitle": "特氟龙不粘锅指南",
+      "recipes": {
+        "title": "推荐菜谱",
+        "panFry": {
+          "title": "煎烙类",
+          "dishes": ["鱼", "豆腐", "鸡蛋", "猪肝"]
+        },
+        "smoothFry": {
+          "title": "滑炒类",
+          "dishes": ["滑蛋虾仁", "清炒鱼片", "炒河粉"]
+        },
+        "sauce": {
+          "title": "酱汁类",
+          "dishes": ["糖醋里脊", "鱼香肉丝", "麻婆豆腐"]
+        }
+      },
+      "usage": {
+        "title": "使用须知",
+        "coatingProtection": {
+          "title": "涂层保护是核心",
+          "noMetal": {
+            "title": "严禁金属厨具",
+            "description": "严禁使用任何金属或硬质厨具（如钢铲、钢丝球），请务必选用硅胶或木质厨具。"
+          },
+          "noSharp": {
+            "title": "避免尖锐食材",
+            "description": "请勿烹饪带尖锐硬壳的食材（如螃蟹、花甲），避免翻炒过程中的碰撞造成涂层划伤。"
+          },
+          "noDryBurn": {
+            "title": "避免空烧",
+            "description": "长时间干烧会永久性损伤不粘涂层。"
+          }
+        }
+      },
+      "cleaning": {
+        "title": "清洁与保养 — 延长涂层寿命",
+        "daily": {
+          "title": "日常清洁",
+          "gentle": {
+            "title": "温和清洗",
+            "description": "待锅体自然冷却后，可选用普通洗洁精；亦或用海绵或软布配合温水清洗。"
+          },
+          "temperature": {
+            "title": "严防温差冲击",
+            "description": "严禁在锅体高温状态下用冷水直接冲洗，巨大的温差是涂层的隐形杀手。若需在热锅状态下清洗，请务必使用热水。"
+          },
+          "stain": {
+            "title": "污渍处理",
+            "description": "若有顽固污渍，用温水浸泡，切勿强行刮擦。"
+          },
+          "spray": {
+            "title": "避免强力水冲",
+            "description": "禁止使用设备自带的水枪式喷头直接对锅内进行冲洗，这会加速涂层的老化。"
+          }
+        },
+        "inspection": {
+          "title": "定期检查",
+          "description": "当涂层出现明显划痕或不粘性能显著下降时，为了最佳的烹饪效果和食品安全，我们建议您联系返修或更换锅体。"
+        },
+        "warnings": {
+          "title": "重要提示",
+          "noMetal": "禁用金属厨具",
+          "noTempShock": "避免温差冲击",
+          "noDryBurn": "禁止长时间空烧"
+        }
+      }
+    }
+  },
+  "supplies": {
+    "title": "耗材选购指南",
+    "subtitle": "耗材购买指南",
+    "description": "配件耗材的选购和更换指南，确保设备持续高效运行",
+    "categories": {
+      "equipment": {
+        "title": "设备配件",
+        "seals": {
+          "title": "密封圈组件",
+          "check": "建议每6个月检查一次密封性能",
+          "replace": "发现老化或破损应及时更换",
+          "cycle": "更换周期：12-18个月"
+        },
+        "filters": {
+          "title": "过滤网组件", 
+          "clean": "每月清洗一次，保持通风效果",
+          "replace": "严重堵塞时需要更换新的过滤网",
+          "cycle": "更换周期：6-12个月"
+        }
+      },
+      "cookware": {
+        "title": "烹饪用具",
+        "silicone": {
+          "title": "硅胶厨具套装",
+          "description": "专用于特氟龙不粘锅的安全厨具",
+          "includes": "包含铲子、汤勺、夹子等工具",
+          "recommend": "建议备用：1-2套"
+        },
+        "wood": {
+          "title": "木质厨具套装",
+          "description": "适用于氮化铁锅的传统厨具",
+          "material": "天然材质，不损伤锅体表面",
+          "recommend": "建议备用：1套"
+        }
+      }
+    },
+    "purchasing": {
+      "title": "购买建议",
+      "authentic": {
+        "title": "正品渠道",
+        "official": "拾光科技官方商城",
+        "authorized": "授权经销商门店",
+        "service": "官方客服推荐渠道"
+      },
+      "quality": {
+        "title": "质量保证",
+        "original": "原厂配件保证兼容性",
+        "standard": "严格质检标准",
+        "warranty": "质量问题包换服务"
+      },
+      "afterSales": {
+        "title": "售后服务",
+        "installation": "专业安装指导",
+        "training": "使用培训服务",
+        "maintenance": "定期保养提醒"
+      }
+    },
+    "replacement": {
+      "title": "更换提醒",
+      "whenToReplace": {
+        "title": "何时更换",
+        "seals": "密封圈出现老化、变硬或开裂",
+        "filters": "过滤网严重堵塞，清洗后效果不佳",
+        "tools": "厨具出现磨损或损坏",
+        "performance": "设备性能明显下降"
+      },
+      "contact": {
+        "title": "联系方式",
+        "hotline": "客服热线：400-XXX-XXXX",
+        "online": "在线客服：官网在线咨询",
+        "hours": "服务时间：周一至周日 9:00-18:00"
+      }
+    }
+  },
+  "common": {
+    "enter": "点击进入",
+    "copyright": "© 2024 拾光科技 | 专注厨房科技，成就美好生活",
+    "contact": "产品咨询与售后服务请联系客服",
+    "returnToProduct": "返回产品选择",
+    "returnToHome": "返回首页"
+  }
+}
